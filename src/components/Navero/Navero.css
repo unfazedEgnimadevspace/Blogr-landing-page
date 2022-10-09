@@ -1,0 +1,9 @@
+.Navero{
+    background-image:  url(/blogr-landing-page/images/bg-pattern-intro-desktop.png);
+    /* background-image: url(../Image/bg.jpg); */
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
